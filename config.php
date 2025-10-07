@@ -5,10 +5,10 @@
 // ========================================
 
 // Link do webhooka na którego wysyłane mają być komunikaty
-$WEBHOOK_URL = "";
+$WEBHOOK_URL = "https://discord.com/api/webhooks/1203508167846268949/Skj36IVXVFaM8vOwKlHE3yIMCtcjKb8jkxRh0qqy0k9MEi99LlidPGTRJygqeiHhT88b";
 
 // Świat z którego akceptowane mają być grzyby (sprawdzany po nagłówku origin)
-$REQUIRED_WORLD = "aether";
+$REQUIRED_WORLD = "zemyna";
 
 // Adres z którego mają być brane obrazki grzybów do pokazania na Discordzie
 // (Margonem blokuje IP Discorda, więc nie działa bezpośrednio z cdn!)
